@@ -18,7 +18,7 @@ $ bash firstsetup.sh
 ```
 3.enjoy
 
-p.s <pre>create<pre> command will work only on current terminal.
+##### p.s `create` command will work only on current terminal.
 
 ### to make it permanent 
 
